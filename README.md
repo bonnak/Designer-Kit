@@ -2,7 +2,7 @@
 
 npm install
 
-## Usage
+### Usage
 --Compile Jade to Html file.
 gulp jade
 
