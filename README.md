@@ -2,9 +2,7 @@
 
 npm install
 
-### Usage
---Compile Jade to Html file.
-gulp jade
+# Usage
 
--- Compile Sass to CSS file.
-gulp sass
+gulp jade (Compile Jade to Html file)
+gulp sass (Compile Sass to CSS file)
